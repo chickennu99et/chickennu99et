@@ -2,6 +2,7 @@
 <head>
 <link rel="stylesheet" href="style.css">
 </head>
+<textarea id="typing-text" readonly></textarea>
 <body>
 <textarea id="typing-text" readonly></textarea>
 <h1 align="center">Hello there there 👋</h1>
