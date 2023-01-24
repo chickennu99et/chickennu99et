@@ -7,5 +7,5 @@
 <h1 align="center">Hello there there 👋</h1>
 <h2 align="center">im chicken nugget(github wouldnt allow chickennugget)</h2>
 </body>
-<script src="script.js"></script>
 </html>
+<script src="script.js"></script>
